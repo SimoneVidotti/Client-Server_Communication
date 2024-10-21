@@ -1,0 +1,38 @@
+Here’s a list of major networking protocols:
+
+Application Layer Protocols
+
+    HTTP (Hypertext Transfer Protocol) - for web communication
+    FTP (File Transfer Protocol) - for file transfer
+    SMTP (Simple Mail Transfer Protocol) - for email transmission
+    DNS (Domain Name System) - for domain name resolution
+    SSH (Secure Shell) - for secure remote access
+    Telnet - for remote access
+    SNMP (Simple Network Management Protocol) - for network management
+
+Transport Layer Protocols
+
+    TCP (Transmission Control Protocol) - for reliable communication
+    UDP (User Datagram Protocol) - for unreliable communication
+    SCTP (Stream Control Transmission Protocol) - for reliable and multiplexed communication
+
+Network Layer Protocols
+
+    IP (Internet Protocol) - for communication between networks
+    ICMP (Internet Control Message Protocol) - for error handling and diagnostics
+    IGMP (Internet Group Management Protocol) - for multicast group management
+    OSPF (Open Shortest Path First) - for route management
+    BGP (Border Gateway Protocol) - for inter-network route management
+
+Link Layer Protocols
+
+    Ethernet - for local area communication
+    Wi-Fi - for wireless communication
+    PPP (Point-to-Point Protocol) - for point-to-point communication
+    HDLC (High-Level Data Link Control) - for point-to-point communication
+
+Security Protocols
+
+    SSL/TLS (Secure Sockets Layer/Transport Layer Security) - for encryption and authentication
+    IPsec (Internet Protocol Security) - for encryption and authentication
+    PGP (Pretty Good Privacy) - for encryption and authentication
