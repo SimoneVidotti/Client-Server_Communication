@@ -1,14 +1,13 @@
 # Client-Server Communication
 
 ## Description
-This repository contains examples of client-server communication implemented using sockets in both C++ and Python. 
+This repository contains example of client-server communication implemented using sockets in C++. 
 The examples are designed to demonstrate how to establish a connection between a client and a server using TCP/IP sockets.
 
 ## Prerequisites
 * Linux terminal
-* python
 * C++ 
-* g++
+* gcc
 
 ## Installation
 $ ```git clone https://github.com/SimoneVidotti/Client-Server_Communication.git```
